@@ -1,0 +1,3 @@
+[submodule "one-piece-frontend-boilerplate"]
+	path = one-piece-frontend-boilerplate
+	url = https://github.com/gethsun1/personalitydapp.git
